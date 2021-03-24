@@ -264,6 +264,13 @@ body{
   color: white;
 }
 
+.project-image {
+  width: 300px;
+  height: 237px;
+  border-radius: 5px;
+  background-size: cover;
+}
+
 .project-text{
   flex-basis: 60%;
   display: flex;
@@ -484,7 +491,8 @@ body{
     flex-direction: column;
   }
   .project-image{
-    width: 300px;
+        width: 300px;
+        height: 237px;
     margin-bottom: 46px;
     margin-left: auto;
     margin-right: auto;
