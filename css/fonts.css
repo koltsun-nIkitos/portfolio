@@ -1,0 +1,53 @@
+/* Подключение шрифтов */
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bebas Neue'), local('Bebas-Neue'),
+        url('../fonts/Bebas_Neue/BebasNeueRegular.woff'),
+        url('../fonts/Bebas_Neue/BebasNeueRegular.ttf'),
+        url('../fonts/Bebas_Neue/BebasNeueRegular.eot');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Manrope'), local('Manrope Regular'), local('Manrope-Regular'),
+        url('../fonts/Manrope/Manrope-Regular.woff'),
+        url('../fonts/Manrope/Manrope-Regular.ttf'),    
+        url('../fonts/Manrope/Manrope-Regular.eot');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Manrope Medium'), local('Manrope-Medium'),
+        url('../fonts/Manrope/Manrope-Medium.woff'),
+        url('../fonts/Manrope/Manrope-Medium.ttf'),
+        url('../fonts/Manrope/Manrope-Medium.eot');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Manrope Semi Bold'), local('Manrope-Semi-Bold'),
+        url('../fonts/Manrope/Manrope-Semibold.woff'),
+        url('../fonts/Manrope/Manrope-Semibold.ttf'),
+        url('../fonts/Manrope/Manrope-Semibold.eot');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Manrope Bold'), local('Manrope-Bold'),
+        url('../fonts/Manrope/Manrope-Bold.woff'),
+        url('../fonts/Manrope/Manrope-Bold.ttf'),
+        url('../fonts/Manrope/Manrope-Bold.eot');
+}
+
+
+
